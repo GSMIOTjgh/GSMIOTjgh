@@ -8,7 +8,7 @@
     <a href="https://velog.io/@jgh/posts">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
-  <a href="">
+  <a href="https://github.com/GSMIOTjgh">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
 </div>
   </a>
