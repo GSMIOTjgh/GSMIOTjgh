@@ -3,6 +3,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=GSMIOTjgh&color=b7effb&section=header&height=170&fontAlignY=35&animation=fadeIn)
 </div>
 
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://velog.io/@jgh/posts">
+        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+    </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</div>
+  </a>
+</div>
+
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:s23054@gsm.hs.kr">
@@ -15,6 +26,11 @@
          <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
     </a>
 
+
+
+  
+  ## 📄 My stack 📄
+  
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Frontend</strong></p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
