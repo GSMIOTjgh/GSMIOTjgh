@@ -10,3 +10,23 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 </div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+   <p><strong>Development Tools</strong></p>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+</div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+   <p><strong>Version Control</strong></p>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+</div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+   <p><strong>Design Tools</strong></p>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+</div>
+<div style="display:flex; flex-direction:column; align-items:flex-start;">
+   <p><strong>Communication</strong></p>
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</div>
+
