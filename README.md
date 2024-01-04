@@ -8,7 +8,7 @@
     <a href="mailto:s23054@gsm.hs.kr">
         <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
+    <a href="https://open.kakao.com/o/siv6oI1f">
       <img src="https://img.shields.io/badge/kakaotalk-FFCD00?style=flat-square&logo=kakaotalk&logoColor=black"/>   
     </a>
     <a href="https://www.instagram.com/jgh10169">
