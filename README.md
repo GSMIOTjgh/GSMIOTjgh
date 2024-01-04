@@ -1,7 +1,9 @@
-<div align="center">
+<div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&text=GSMIOTjgh&color=b7effb&section=header&height=170&fontAlignY=35&animation=fadeIn)
 </div>
+
+__________________________________
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSMIOTjgh)](https://github.com/GSMIOTjgh/github-readme-stats)
 
