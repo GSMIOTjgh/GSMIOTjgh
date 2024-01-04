@@ -3,6 +3,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=GSMIOTjgh&color=b7effb&section=header&height=170&fontAlignY=35&animation=fadeIn)
 </div>
 
+[![GSMIOTjgh's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=GSMIOTjgh&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/GSMIOTjgh/github-readme-stats)
+
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://velog.io/@jgh/posts">
