@@ -5,7 +5,7 @@
 
 __________________________________
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSMIOTjgh)](https://github.com/GSMIOTjgh/github-readme-stats&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GSMIOTjgh&show_icons=true&theme=radical)](https://github.com/GSMIOTjgh/github-readme-stats)
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
