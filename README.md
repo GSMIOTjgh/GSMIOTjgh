@@ -16,7 +16,7 @@ __________________________________
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.notion.so/b833ef4ae2df441e9d528e847687f2f8?pvs=4">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-68BC71?style=flat-square&logoColor=white"/>
   </a>
 </div>
 
