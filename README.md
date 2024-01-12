@@ -57,6 +57,7 @@ __________________________________
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Design Tools</strong></p>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=Blender&logoColor=black"/>
 </div>
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Communication</strong></p>
