@@ -75,3 +75,4 @@ __________________________________
 ## Business Card
 
 <img width="297" alt="명함 앞" src="https://github.com/GSMIOTjgh/GSMIOTjgh/assets/132252115/f376a88d-8df2-460e-810a-63078c3e02e6">
+<img width="476" alt="명함 뒤" src="https://github.com/GSMIOTjgh/GSMIOTjgh/assets/132252115/2ddd6dc0-fade-4531-9a4c-87900f3e3e2c">
