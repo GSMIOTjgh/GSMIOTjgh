@@ -35,7 +35,7 @@ __________________________________
 
 
   
-  ## 📄 My stack 📄
+  ## 📄 My experience 📄
   
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
    <p><strong>Frontend</strong></p>
