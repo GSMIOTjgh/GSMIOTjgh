@@ -73,4 +73,6 @@ __________________________________
 </div>
 
 ## Business Card
+
+<img width="297" style="object-fit: cover;" alt="명함 앞" src="https://github.com/GSMIOTjgh/GSMIOTjgh/assets/132252115/51223355-8182-4565-a9b6-95ecdf82e78d">
 <img width="297" style="object-fit: cover;" alt="명함 뒤" src="https://github.com/GSMIOTjgh/GSMIOTjgh/assets/132252115/b06679d4-6ed4-45a3-8a1a-f45d3128329b">
