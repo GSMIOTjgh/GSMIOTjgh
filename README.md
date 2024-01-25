@@ -15,7 +15,7 @@ __________________________________
   <a href="https://github.com/GSMIOTjgh">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://jgh-portfolio.oopy.io/ target=”_blank”">
+  <a href="https://jgh-portfolio.oopy.io/ target="_blank"">
     <img src="https://img.shields.io/badge/Portfolio-68BC71?style=flat-square&logoColor=white"/>
   </a>
 </div>
