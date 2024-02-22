@@ -76,7 +76,3 @@ __________________________________
 
 <img width="297" style="object-fit: cover;" alt="명함 앞" src="https://github.com/GSMIOTjgh/GSMIOTjgh/assets/132252115/51223355-8182-4565-a9b6-95ecdf82e78d">
 <img width="297" style="object-fit: cover;" alt="명함 뒤" src="https://github.com/GSMIOTjgh/GSMIOTjgh/assets/132252115/b06679d4-6ed4-45a3-8a1a-f45d3128329b">
-
-## My stories
-
-> [china](https://velog.io/@jgh/%EC%A4%91%EA%B5%AD%EC%82%AC%EC%9D%B4%ED%8A%B8%EC%97%90-%EB%82%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80)
