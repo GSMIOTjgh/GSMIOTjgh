@@ -16,7 +16,7 @@ __________________________________
     <img src="https://img.shields.io/badge/Portfolio-68BC71?style=flat-square&logoColor=white"/>
   </a>
     <a href="https://velog.io/@jgh/posts">
-        <img width=80 height=20 src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
+        <img width=50 height=20 src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
 </div>
 
