@@ -15,7 +15,7 @@ __________________________________
   <a href="https://messy-headphones-210.notion.site/605f698476f54fb2b34069e8bdd5e5e0?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-68BC71?style=flat-square&logoColor=white"/>
   </a>
-    <a href="https://velog.io/@jgh/posts">
+    <a href="https://velog.io/@jgh/posts" width=20; height=20;>
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
 </div>
