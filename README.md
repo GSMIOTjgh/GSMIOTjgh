@@ -12,7 +12,7 @@ __________________________________
   <a href="https://github.com/GSMIOTjgh">
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-  <a href="https://messy-headphones-210.notion.site/605f698476f54fb2b34069e8bdd5e5e0?pvs=4">
+  <a href="https://jgh5387.notion.site/605f698476f54fb2b34069e8bdd5e5e0?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-68BC71?style=flat-square&logoColor=white"/>
   </a>
     <a href="https://velog.io/@jgh/posts">
