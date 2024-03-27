@@ -19,7 +19,7 @@ __________________________________
       <img width=70 height=20 src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
   </a>
   <a href="https://www.linkedin.com/in/jgh5387/">
-    <img width=70 height=20 src="https://img.shields.io/badge/LinkedIn-0767FF?style=for-the-badge&logo=LinkedIn&logoColor=white"> 
+    <img width=80 height=20 src="https://img.shields.io/badge/LinkedIn-0767FF?style=for-the-badge&logo=LinkedIn&logoColor=white"> 
   </a>
 </div>
 
